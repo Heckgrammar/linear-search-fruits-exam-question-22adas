@@ -22,3 +22,6 @@ public class Program
             return false;
 	}
 }
+
+<img width="324" alt="Screenshot 2025-05-18 at 21 58 31" src="https://github.com/user-attachments/assets/f6e972e6-5bd9-4c3e-a52b-b09b92751ce3" />
+<img width="324" alt="Screenshot 2025-05-18 at 21 58 59" src="https://github.com/user-attachments/assets/09af56d5-de55-44dc-9193-d984c9c94840" />
